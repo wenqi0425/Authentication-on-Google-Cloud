@@ -20,6 +20,8 @@ We can also use this list to evaluate and harden your current GCP environment.
 ### 12) Secure access to GCP Service and Internet via private IP
 ### 13) Deploy secure built-in workloads that integrate key management and DLP, and leverage multi-region services for data storage.
 
+![image](https://user-images.githubusercontent.com/101533381/187407676-09046b7d-367c-4ff9-9c3f-3603af4d6121.png)
+
 
 ## 1) Cloud Identity
 Establish unified identity synchronization management on and off the cloud,

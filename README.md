@@ -1,7 +1,4 @@
-
-
-![image](https://user-images.githubusercontent.com/101533381/187448187-a8ed2164-e3b0-4383-885f-7ce84ba94b59.png)
-
+![image](https://user-images.githubusercontent.com/101533381/187448628-441cb804-1fc2-4536-9561-6baeccdedd00.png)
 
 # Authentication on Google Cloud
 

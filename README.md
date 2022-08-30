@@ -1,3 +1,8 @@
+
+
+![image](https://user-images.githubusercontent.com/101533381/187448187-a8ed2164-e3b0-4383-885f-7ce84ba94b59.png)
+
+
 # Authentication on Google Cloud
 
 ## 13 core security controls:

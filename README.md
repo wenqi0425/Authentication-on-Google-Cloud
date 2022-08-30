@@ -3,6 +3,8 @@
 # Authentication on Google Cloud
 
 ## 13 core security controls:
+https://www.bilibili.com/video/BV1og411A79Y?spm_id_from=333.337.search-card.all.click
+
 ### Note: 
 The order of the list is important to ensure a good foundation before deploying the application. 
 But we can use this list to design and build a GCP working environment. 

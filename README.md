@@ -7,8 +7,9 @@ https://www.bilibili.com/video/BV1og411A79Y?spm_id_from=333.337.search-card.all.
 
 ### Note: 
 The order of the list is important to ensure a good foundation before deploying the application. 
-But we can use this list to design and build a GCP working environment. 
-We can also use this list to evaluate and harden your current GCP environment.
+We can also use this list to 
+ * design and build a GCP working environment. 
+ * evaluate and harden your current GCP environment.
 
 ### 1) Establish unified identity management with on-premises
 ### 2) Create a minimal role with IAM
